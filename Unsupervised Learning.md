@@ -1,5 +1,5 @@
 # Unsupervised Learning Notes
-
+s
 ## **1. What is Unsupervised Learning?**
 Unsupervised learning is a type of machine learning where the model **learns patterns from data without labeled outputs**.
 - Unlike supervised learning (where we have inputs and correct outputs), unsupervised learning **finds hidden structures** in data.
