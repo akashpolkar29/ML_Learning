@@ -1,5 +1,5 @@
 ## **Linear Regression** 📈👤  
-
+s
 Linear Regression is a **supervised learning algorithm** used to model the relationship between **independent variables (features X)** and **dependent variables (label Y)** by fitting a straight line.  
 
 The mathematical form of **Linear Regression**:  
