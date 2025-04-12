@@ -1,5 +1,5 @@
 ## Confusion Matrix in Machine Learning
-
+s
 A Confusion Matrix is a table used to evaluate the performance of a classification model. It compares the actual labels with the predicted labels, helping to understand the model’s accuracy and errors.
 
 ### Structure of a Confusion Matrix
