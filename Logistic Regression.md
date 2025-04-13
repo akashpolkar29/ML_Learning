@@ -1,5 +1,5 @@
 ### **Logistic Regression (Sigmoid Function, Decision Boundary)**
-
+s
 Logistic Regression is a **classification algorithm** used to predict the probability that a given input point belongs to a particular class. It is widely used for **binary classification** problems, where the output is a class label like "0" or "1," "spam" or "not spam," etc.
 
 ### **Key Concepts of Logistic Regression**
