@@ -1,5 +1,5 @@
 ## 1. Decision Trees (Entropy, Gini Index, Pruning)
-ssss
+sssss
 ### What is a Decision Tree?
 A **Decision Tree** makes predictions based on answering a series of questions about features in the data. The answers lead to further questions until a final decision is reached.
 
