@@ -2,7 +2,7 @@
 
 ## Introduction
 Exploratory Data Analysis (EDA) is the process of analyzing and visualizing data to understand its patterns, trends, and relationships before applying machine learning models. It helps in detecting missing values, outliers, and distributions, making data-driven decisions easier.
-s
+
 ## Key Steps in EDA
 
 ### 1. Importing Necessary Libraries
