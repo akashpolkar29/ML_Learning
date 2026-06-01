@@ -59,19 +59,7 @@ ML_Learning/
 - Develop data preprocessing skills.
 - Build real-world Machine Learning projects.
 - Document learnings for future reference.
-
----
-
-## 📅 Daily Learning Log
-
-| Date | Topic | Notes |
-|------|--------|--------|
-| YYYY-MM-DD | Topic Name | Summary of learning |
-| YYYY-MM-DD | Topic Name | Summary of learning |
-| YYYY-MM-DD | Topic Name | Summary of learning |
-
-> Update this table daily as you learn new concepts.
-
+  
 ---
 
 ## 🛠️ Tools & Technologies
